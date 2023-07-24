@@ -6,7 +6,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src":"pop.png",
+            "src":"popP.png",
             "sizes": "192x192"
         }
     ]
